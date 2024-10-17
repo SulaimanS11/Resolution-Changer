@@ -99,7 +99,7 @@ RESOLUTIONS = [
 
 ---
 
-## **Limitation**
+## **Limitations**
 - **Windows-only:** The tool relies on **Win32 API**, so it works only on Windows operating systems.
 - **Fixed Resolutions:** Only the predefined resolutions can be selected. You need to modify the code to add more resolutions.
 - **Administrative Access:** In some cases, resolution changes might require administrator privileges.
